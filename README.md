@@ -12,3 +12,5 @@
 * Нотации моделирования: BPMN, UML
 * MS SQL
 * Git
+
+![](https://raw.githubusercontent.com/ekaterp/netology-resume/master/img/Photo.jpg)
